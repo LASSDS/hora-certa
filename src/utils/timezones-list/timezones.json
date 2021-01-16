@@ -282,10 +282,10 @@
         "utc": "-04:30"
     },
     {
-        "label": "America/Asuncion (GMT-03:00)",
+        "label": "America/Asuncion (GMT-04:00)",
         "tzCode": "America/Asuncion",
-        "name": "(GMT-03:00) Asuncion",
-        "utc": "-03:00"
+        "name": "(GMT-04:00) Asuncion",
+        "utc": "-04:00"
     },
     {
         "label": "America/Barbados (GMT-04:00)",
@@ -300,16 +300,16 @@
         "utc": "-04:00"
     },
     {
-        "label": "America/Campo_Grande (GMT-03:00)",
+        "label": "America/Campo_Grande (GMT-04:00)",
         "tzCode": "America/Campo_Grande",
-        "name": "(GMT-03:00) Campo Grande",
-        "utc": "-03:00"
+        "name": "(GMT-04:00) Campo Grande",
+        "utc": "-04:00"
     },
     {
-        "label": "America/Cuiaba (GMT-03:00)",
+        "label": "America/Cuiaba (GMT-04:00)",
         "tzCode": "America/Cuiaba",
-        "name": "(GMT-03:00) Cuiaba",
-        "utc": "-03:00"
+        "name": "(GMT-04:00) Cuiaba",
+        "utc": "-04:00"
     },
     {
         "label": "America/Curacao (GMT-04:00)",
