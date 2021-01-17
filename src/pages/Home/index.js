@@ -10,7 +10,7 @@ export default function Home(){
     const [time, setTime] = useState('');
     const [date, setDate] = useState('');
     const [timeZone, setTimeZone] = useState(defaultTimeZone);
-    const [locale, setLocale] = useState(ptBR);    
+    const [locale] = useState(ptBR);    
     const urlCreator = 'https://github.com/LASSDS';    
     
     useEffect(() => {
