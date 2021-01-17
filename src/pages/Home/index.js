@@ -65,7 +65,7 @@ export default function Home(){
                     <h3 id="day">{date}</h3>
                     <p id="watch">{time}</p>
                     
-                    <h3>Escolha o seu fuso-horário:</h3>
+                    <h3 id="select-text">Escolha o seu fuso-horário:</h3>
                     <select
                         id="select-timeZone"
                         defaultValue={defaultTimeZone}
